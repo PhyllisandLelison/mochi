@@ -1,7 +1,7 @@
 {
-  "name": "Mochi 字卡传讯",
-  "short_name": "Mochi",
-  "description": "情侣专属的字卡传讯，不是小手机。本站完全免费，任何收费均为倒卖诈骗；唯一作者：小红书@言序（1842523578）。",
+  "name": "Lelison和Phyllis",
+  "short_name": "Lelison和Phyllis",
+  "description": "莱利森！来用这个网站传讯链接！ps:其他梦角也可以来！但是不要抢连接！",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
